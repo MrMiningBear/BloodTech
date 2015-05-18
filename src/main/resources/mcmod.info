@@ -1,0 +1,17 @@
+[
+{
+  "modid": "bloodtech",
+  "name": "BloodTech",
+  "description": "Machines that run on blood? What is this madness!",
+  "version": "${version}",
+  "mcversion": "${mc_version}",
+  "updateUrl": "",
+  "authors": [
+    "MiningBear"
+  ],
+  "credits": "Everyone that helped developing BloodTech",
+  "logoFile": "logo.png",
+  "screenshots": [
+  ]
+}
+]

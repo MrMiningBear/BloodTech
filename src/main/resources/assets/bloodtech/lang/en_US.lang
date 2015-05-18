@@ -1,0 +1,7 @@
+item.bloodtech:hypodermic_needle.name=Hypodermic Needle
+item.bloodtech:vacutainer.name=Vacutainer
+item.bloodtech:vacutainer_filled.name=Filled Vacutainer
+
+tile.bloodtech:blood_bank.name=Blood Bank
+
+itemGroup.bloodtech=BloodTech
