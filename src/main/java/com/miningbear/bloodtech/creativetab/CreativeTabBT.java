@@ -11,7 +11,7 @@ public class CreativeTabBT {
 	public static final CreativeTabs BT_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase()) {
 		@Override
 		public Item getTabIconItem() {
-			return Items.itemVacutainer;
+			return Items.itemVacutainerFilled;
 		}
 	};
 }

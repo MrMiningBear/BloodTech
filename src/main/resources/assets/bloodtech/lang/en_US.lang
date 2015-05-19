@@ -1,7 +1,18 @@
+##################################
+# Items
+##################################
 item.bloodtech:hypodermic_needle.name=Hypodermic Needle
 item.bloodtech:vacutainer.name=Vacutainer
 item.bloodtech:vacutainer_filled.name=Filled Vacutainer
 
+
+##################################
+# Blocks
+##################################
 tile.bloodtech:blood_bank.name=Blood Bank
 
+
+##################################
+# Creative Tabs
+##################################
 itemGroup.bloodtech=BloodTech
